@@ -1,1 +1,1 @@
-var playlist = {Ariana Grande: 'God is a Woman'};
+var playlist = {0};

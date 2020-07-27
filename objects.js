@@ -1,4 +1,4 @@
-var playlist = {Phil Ochs: "Here's to the State of Mississippi"};
+var playlist = {Ariana: "God is a Woman"};
 
 function updatePlaylist() {
   playlist["Slowdive"] = "Alison"

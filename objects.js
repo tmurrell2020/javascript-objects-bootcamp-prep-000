@@ -1,5 +1,5 @@
-var playlist = {
+var playlist = new Object({
   Ariana Grande: 'God is a Woman',
   Marina: 'Primadonna',
   Lana Del Rey: 'Lust for Life'
-};
+});

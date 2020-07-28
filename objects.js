@@ -8,6 +8,6 @@ function updatePlaylist() {
 }
 
 function removeFromPlaylist() {
-  delete playlist.Ariana;
+  delete playlist.Slowdive;
   return playlist;
 }
